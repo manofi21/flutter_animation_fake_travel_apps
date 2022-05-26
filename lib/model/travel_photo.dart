@@ -11,3 +11,18 @@ class TravelPhoto {
   final String name;
   final int photos;
 }
+
+final travelPhoto = [
+  const TravelPhoto(
+    backImage: 'assets/travel_photos/japan_backImage.png',
+    frontImage: 'assets/travel_photos/japan_backImage.png',
+    name: "Japan",
+    photos: 3,
+  ),
+  const TravelPhoto(
+    backImage: 'assets/travel_photos/kuala_lumpur_backImage.png',
+    frontImage: 'assets/travel_photos/kuala_lumpur_frontImage.png',
+    name: "Japan",
+    photos: 3,
+  ),
+];
