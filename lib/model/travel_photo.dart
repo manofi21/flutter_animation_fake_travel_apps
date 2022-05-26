@@ -25,4 +25,16 @@ final travelPhotos = [
     name: "Kuala Lumpur",
     photos: 30,
   ),
+  const TravelPhoto(
+    backImage: 'assets/travel_photos/paris_backImage.png',
+    frontImage: 'assets/travel_photos/paris_frontImage.png',
+    name: "Paris",
+    photos: 30,
+  ),
+  const TravelPhoto(
+    backImage: 'assets/travel_photos/rome_backImage.png',
+    frontImage: 'assets/travel_photos/rome_frontImage.png',
+    name: "Roma",
+    photos: 30,
+  ),
 ];
